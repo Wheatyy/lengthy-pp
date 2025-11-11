@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "again.h"
 #include "main.h"
-#include "deaf.h"
+#include "sorry.h"
 char answer;
 //answer = NULL
 void again() {
@@ -15,6 +15,6 @@ void again() {
 		printf("Okay, Bye-Bye.");
 	}
 	else {
-	deaf();
+	sorry();
 }
 }
