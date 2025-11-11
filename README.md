@@ -1,5 +1,5 @@
 # Introduction
-
+This program prints a penis of user-specifiable length.  
 I've accidentally rm'ed some of the files involved in this project so I decided to put it up here.
 **penis3** is the pre-compiled binary.    
 # Details
