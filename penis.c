@@ -18,5 +18,3 @@ int length;
 	printf("D\n");
 	again();
 }
-
-
