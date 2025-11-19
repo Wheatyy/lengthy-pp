@@ -12,7 +12,7 @@ void again() {
 		main();
 	}
 	else if(answer == 'n' || answer == 'N') {
-		printf("Okay, Bye-Bye.");
+		printf("Okay, Bye!\n");
 	}
 	else {
 	sorry();
